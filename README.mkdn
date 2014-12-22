@@ -1,0 +1,8 @@
+Validus-Lollipop
+================
+
+    repo init -u git://github.com/Team-Validus/Validus_Manifest.git -b lp5.0
+
+Then to sync up:
+
+    repo sync
