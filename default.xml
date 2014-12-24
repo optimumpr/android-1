@@ -585,4 +585,7 @@
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9-sm" name="UBERUTILS/arm-eabi-4.9" remote="gh" revision="master" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.10-sm" name="UBERUTILS/arm-eabi-4.10" remote="gh" revision="master" />  
     
+  <!-- Slim toolchain gcc and linaro -->
+  <project path="prebuilt" name="SlimRoms/android_prebuilt" remote="gh" revision="lp5.0" />    
+    
 </manifest>
