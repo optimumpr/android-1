@@ -360,7 +360,7 @@
   <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" groups="pdk" />
   <project path="external/square/dagger" name="CyanogenMod/android_external_square_dagger" />
   <project path="external/square/javawriter" name="CyanogenMod/android_external_square_javawriter" />
-  <project path="external/stagefright-plugins" name="CyanogenMod/android_external_stagefright-plugins" />
+  <project path="external/stagefright-plugins" name="SlimRoms/android_external_stagefright-plugins" remote="gh" revision="lp5.0" />
   <project path="external/strace" name="CyanogenMod/android_external_strace" groups="pdk-cw-fs" />
   <project path="external/tcpdump" name="CyanogenMod/android_external_tcpdump" groups="pdk,pdk-cw-fs" />
   <project path="external/tinyalsa" name="CyanogenMod/android_external_tinyalsa" groups="pdk" />
