@@ -40,7 +40,7 @@
   <project path="packages/apps/InCallUI" name="packages_apps_InCallUI" remote="tv" revision="lp5.0" />  
   <project path="packages/apps/Mms" name="packages_apps_Mms" remote="tv" revision="lp5.0" />
   <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" remote="tv" revision="lp5.0" />  
-  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="tv" revision="lp5.0" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="tv" revision="lp5.0-test" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="tv" revision="lp5.0" />
   <project path="vendor/validus" name="vendor_validus" remote="tv" revision="lp5.0" />
 		   
