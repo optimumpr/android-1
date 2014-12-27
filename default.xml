@@ -43,10 +43,8 @@
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="tv" revision="lp5.0" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="tv" revision="lp5.0" />
   <project path="vendor/validus" name="vendor_validus" remote="tv" revision="lp5.0" />
+  <project path="packages/apps/OmniSwitch" name="packages_apps_OmniSwitch" remote="tv" revision="lp5.0" />
   
-  <!-- OMNI -->
-  <project path="packages/apps/OmniSwitch" name="omnirom/android_packages_apps_OmniSwitch" remote="gh" revision="android-5.0" />
-		   
   <!-- AOSP -->
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="dalvik" name="platform/dalvik" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
