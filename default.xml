@@ -31,7 +31,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="android" name="android" remote="tv" revision="lp5.0" />
-  <project path="frameworks/base" name="frameworks_base" remote="tv" revision="lp5.0" />
+  <project path="frameworks/base" name="frameworks_base" remote="tv" revision="remix" />
   <project path="frameworks/opt/chips" name="frameworks_opt_chips" remote="tv" revision="lp5.0" />  
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="tv" revision="lp5.0" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="tv" revision="lp5.0" />
@@ -40,7 +40,7 @@
   <project path="packages/apps/InCallUI" name="packages_apps_InCallUI" remote="tv" revision="lp5.0" />  
   <project path="packages/apps/Mms" name="packages_apps_Mms" remote="tv" revision="lp5.0" />
   <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" remote="tv" revision="lp5.0" />  
-  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="tv" revision="lp5.0" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="tv" revision="remix" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="tv" revision="lp5.0" />
   <project path="vendor/validus" name="vendor_validus" remote="tv" revision="lp5.0" />
   <project path="packages/apps/OmniSwitch" name="packages_apps_OmniSwitch" remote="tv" revision="lp5.0" />
