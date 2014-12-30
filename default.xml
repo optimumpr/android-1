@@ -39,6 +39,7 @@
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="tv" revision="lp5.0" />
   <project path="packages/apps/InCallUI" name="packages_apps_InCallUI" remote="tv" revision="lp5.0" />  
   <project path="packages/apps/Mms" name="packages_apps_Mms-Dark" remote="tv" revision="lp5.0" />
+  <project path="packages/apps/PerformanceControl" name="packages_apps_PerformanceControl" remote="tv" revision="lp5.0" />
   <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" remote="tv" revision="lp5.0" />  
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="tv" revision="lp5.0" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="tv" revision="lp5.0" />
