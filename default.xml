@@ -33,7 +33,7 @@
   <project path="android" name="android" remote="tv" revision="lp5.0" />
   <project path="external/libpng" name="external_libpng" remote="tv" revision="lp5.0" />
   <project path="frameworks/av" name="frameworks_av" remote="tv" revision="lp5.0" />
-  <project path="frameworks/base" name="frameworks_base" remote="tv" revision="lp5.0" />
+  <project path="frameworks/base" name="frameworks_base" remote="tv" revision="experimental" />
   <project path="frameworks/opt/chips" name="frameworks_opt_chips" remote="tv" revision="lp5.0" />  
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="tv" revision="lp5.0" />
   <project path="packages/apps/ContactsCommon" name="packages_apps_ContactsCommon" remote="tv" revision="lp5.0" />
@@ -42,7 +42,7 @@
   <project path="packages/apps/LockClock" name="packages_apps_LockClock" remote="tv" revision="lp5.0" />
   <project path="packages/apps/Mms" name="packages_apps_Mms-Dark" remote="tv" revision="lp5.0" />
   <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" remote="tv" revision="lp5.0" />  
-  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="tv" revision="lp5.0" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="tv" revision="experimental" />
   <project path="packages/apps/ScreenRecorder" name="packages_apps_ScreenRecorder" remote="tv" revision="lp5.0" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="tv" revision="lp5.0" />
   <project path="vendor/validus" name="vendor_validus" remote="tv" revision="lp5.0" />
