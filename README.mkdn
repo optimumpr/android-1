@@ -1,7 +1,7 @@
 Validus-Lollipop
 ================
 
-    repo init -u git://github.com/Team-Validus/android.git -b lp5.0
+    repo init -u git://github.com/Team-Validus/android.git -b xxx
 
 Then to sync up:
 
