@@ -304,7 +304,6 @@
   <project path="external/e2fsprogs" name="CyanogenMod/android_external_e2fsprogs" groups="pdk" />
   <project path="external/ebtables" name="CyanogenMod/android_external_ebtables" />
   <project path="external/exfat" name="CyanogenMod/android_external_exfat" />
-  <project path="external/f2fs-tools" name="android_external_f2fs-tools" remote="aod" revision="lp" />
   <project path="external/ffmpeg" name="CyanogenMod/android_external_ffmpeg" />
   <project path="external/flac" name="CyanogenMod/android_external_flac" groups="pdk" />
   <project path="external/fsck_msdos" name="CyanogenMod/android_external_fsck_msdos" groups="pdk-cw-fs" />
@@ -503,6 +502,12 @@
   <project path="system/security" name="CyanogenMod/android_system_security" groups="pdk" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" groups="pdk" />
   <project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" />
+  
+  <!-- AOD -->
+  <project path="external/f2fs-tools" name="android_external_f2fs-tools" remote="aod" revision="lp" />
+  
+  <!-- NAMELESS -->
+  <project path="packages/apps/DeviceControl" name="NamelessRom/android_packages_apps_DeviceControl" remote-"gh" revision="n-2.0" />
   
   <!-- QCOM -->
   <project path="hardware/qcom/audio/default" name="CyanogenMod/android_hardware_qcom_audio" groups="qcom,qcom_audio" />
