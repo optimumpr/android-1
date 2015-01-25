@@ -507,7 +507,7 @@
   <project path="external/f2fs-tools" name="android_external_f2fs-tools" remote="aod" revision="lp" />
   
   <!-- NAMELESS -->
-  <project path="packages/apps/DeviceControl" name="NamelessRom/android_packages_apps_DeviceControl" remote-"gh" revision="n-2.0" />
+  <project path="packages/apps/DeviceControl" name="NamelessRom/android_packages_apps_DeviceControl" remote="gh" revision="n-2.0" />
   
   <!-- QCOM -->
   <project path="hardware/qcom/audio/default" name="CyanogenMod/android_hardware_qcom_audio" groups="qcom,qcom_audio" />
