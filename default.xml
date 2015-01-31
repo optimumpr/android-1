@@ -44,6 +44,7 @@
   <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" remote="tv" revision="lp5.0" />  
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="tv" revision="lp5.0" />
   <project path="packages/apps/ScreenRecorder" name="packages_apps_ScreenRecorder" remote="tv" revision="lp5.0" />
+  <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="tv" revision="lp5.0" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="tv" revision="lp5.0" />
   <project path="vendor/validus" name="vendor_validus" remote="tv" revision="lp5.0" />
   <project path="packages/apps/OmniSwitch" name="packages_apps_OmniSwitch" remote="tv" revision="lp5.0" />
@@ -470,7 +471,6 @@
   <project path="packages/providers/CalendarProvider" name="CyanogenMod/android_packages_providers_CalendarProvider" />
   <project path="packages/providers/ContactsProvider" name="CyanogenMod/android_packages_providers_ContactsProvider" />
   <project path="packages/providers/DownloadProvider" name="CyanogenMod/android_packages_providers_DownloadProvider" />
-  <project path="packages/providers/MediaProvider" name="CyanogenMod/android_packages_providers_MediaProvider" />
   <project path="packages/providers/PartnerBookmarksProvider" name="CyanogenMod/android_packages_providers_PartnerBookmarksProvider" />
   <project path="packages/providers/TelephonyProvider" name="CyanogenMod/android_packages_providers_TelephonyProvider" />
   <project path="packages/providers/ThemesProvider" name="CyanogenMod/android_packages_providers_ThemesProvider" />
