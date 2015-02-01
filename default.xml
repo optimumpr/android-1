@@ -44,6 +44,7 @@
   <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" remote="tv" revision="lp5.0" />  
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="tv" revision="lp5.0" />
   <project path="packages/apps/ScreenRecorder" name="packages_apps_ScreenRecorder" remote="tv" revision="lp5.0" />
+  <project path="packages/apps/Terminal" name="packages_apps_Terminal" remote="tv" revision="lp5.0" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="tv" revision="lp5.0" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="tv" revision="lp5.0" />
   <project path="vendor/validus" name="vendor_validus" remote="tv" revision="lp5.0" />
@@ -457,7 +458,6 @@
   <project path="packages/apps/SpeechRecorder" name="CyanogenMod/android_packages_apps_SpeechRecorder" />
   <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" />
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
-  <project path="packages/apps/Terminal" name="CyanogenMod/android_packages_apps_Terminal" />
   <project path="packages/apps/TvSettings" name="CyanogenMod/android_packages_apps_TvSettings" />
   <project path="packages/apps/ThemeChooser" name="CyanogenMod/android_packages_apps_ThemeChooser" />
   <!-- <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" /> -->
