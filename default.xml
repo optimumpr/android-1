@@ -517,16 +517,16 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
 
   <!-- SONY SPECIFIC -->
-  <project name="Team-Validus/device_sony_honami" path="device/sony/honami" remote="tv" revision="lp5.0" />
-  <project name="Team-Validus/android_device_sony_rhine-common" path="device/sony/rhine-common" remote="tv" revision="lp5.0" />
+  <project name="Team-Validus/device_sony_honami" path="device/sony/honami" remote="github" revision="lp5.0" />
+  <project name="Team-Validus/android_device_sony_rhine-common" path="device/sony/rhine-common" remote="github" revision="lp5.0" />
   <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-12.0" />
   <project name="CyanogenMod/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-12.0" />
   <project name="CyanogenMod/android_device_sony_qcom-common" path="device/sony/qcom-common" remote="github" revision="cm-12.0" />
-  <project name="Team-Validus/android_kernel_sony_msm8974" path="kernel/sony/msm8974" remote="tv" revision="lp5.0" />
+  <project name="Team-Validus/android_kernel_sony_msm8974" path="kernel/sony/msm8974" remote="github" revision="lp5.0" />
   <project name="Team-Validus/android_device_sony_msm8974-common" path="device/sony/msm8974-common" remote="tv" revision="lp5.0" />
   <project name="CyanogenMod/android_hardware_sony_DASH" path="hardware/sony/DASH" remote="github" revision="cm-12.0" />
   <project name="CyanogenMod/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-12.0" />
-  <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" remote="tm" revision="cm-12.0" />
+  <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" remote="github" revision="cm-12.0" />
   
   <!-- CUSTOM ROM TOOLCHAINS -->
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="arm-linux-androideabi-4.8" remote="tv" revision="lp" />
