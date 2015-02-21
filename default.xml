@@ -522,8 +522,8 @@
   <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-12.0" />
   <project name="CyanogenMod/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-12.0" />
   <project name="CyanogenMod/android_device_sony_qcom-common" path="device/sony/qcom-common" remote="github" revision="cm-12.0" />
-  <project name="Team-Validus/android_kernel_sony_msm8974" path="kernel/sony/msm8974" remote="github" revision="lp5.0" />
-  <project name="Team-Validus/android_device_sony_msm8974-common" path="device/sony/msm8974-common" remote="github" revision="m5kernel" />
+  <project name="Team-Validus/android_kernel_sony_msm8974" path="kernel/sony/msm8974" remote="github" revision="m5kernel" />
+  <project name="Team-Validus/android_device_sony_msm8974-common" path="device/sony/msm8974-common" remote="github" revision="lp5.0" />
   <project name="CyanogenMod/android_hardware_sony_DASH" path="hardware/sony/DASH" remote="github" revision="cm-12.0" />
   <project name="CyanogenMod/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-12.0" />
   <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" remote="github" revision="cm-12.0" />
